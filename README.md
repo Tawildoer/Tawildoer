@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tawildoer
-- 👀 I’m interested in machine learning and automation
+- 👀 I’m interested in many many topics, currently I'm focussing on machine learning and automation
 - 🌱 I’m currently learning a lot...
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me tom.wildoer@gmail.com
